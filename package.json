@@ -1,0 +1,17 @@
+{
+  "name": "offline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "hyperlog": "^4.8.1",
+    "level-browserify": "^1.1.0"
+  }
+}
